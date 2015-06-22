@@ -56,11 +56,15 @@ p {
     font-weight: bold;
     font-size: 10px;
 }
+.empty {
+    color: aliceblue;
+    letter-spacing: 6px;
+}
 .report {
-
     font-size: 9px;
     color: grey;
 }
 hr {
     border: 0.1em dotted #c2c2c2;
 }
+
